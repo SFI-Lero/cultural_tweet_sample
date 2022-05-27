@@ -1,2 +1,4 @@
 # cultural_tweet_sample
 Creating culturally representative sample of tweets on software feedback 
+
+Globally distributed developers and software companies from various countries and cultures, use Twitter to communicate about software and end-users use Twitter to give feedback about the software they use. Software-related feedback on Twitter can be provided by a globally distributed audience. This user feedback can differ significantly in terms of users’ behavior, mobile app usage, preferences, and software features across countries. Therefore, it is necessary for app developers and researchers to consider the importance of culturally diverse user feedback. The goal of this work is to analyse the feedback tweets provided by software users, classify it into three categories and associate them with countries.
